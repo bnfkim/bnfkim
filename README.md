@@ -3,8 +3,8 @@
 I'm a student at Sookmyung University majoring in IT engineering.💻
 I enjoy running🏃‍♀️ snow board🏂 drawing🎨 bowling🎳
 </br>
-📫 Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"&link=mailto:kgr3819@gmail.com/></a>
+📫 Contact </br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"&link=mailto:kgr3819@gmail.com/></a>
 
 
 📚👩‍💻
