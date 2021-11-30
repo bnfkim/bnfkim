@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a student at Sookmyung University majoring in IT engineering.💻
+
+🌱 currently learning
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScriptt-#F7DF1E?style=flat-square&logo=JavaScriptt&logoColor=white"/></a>&nbsp 
+
+
+
+
+💛Career
+
+
 <!--
 **bnfkim/bnfkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
