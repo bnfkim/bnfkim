@@ -21,7 +21,7 @@ Be myself, Be beneficial</br>
 
 ### 📫 About me </br>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kgr3819@gmail.com"/></a>
-<img src="https://img.shields.io/badge/Vimeo-40b68d?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@beneficial"/></a>
+<img src="https://img.shields.io/badge/Velog-40b68d?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@beneficial"/></a>
 </br></br>
 
 ### 💛Career
