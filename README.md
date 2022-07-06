@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I'm a student at Sookmyung University majoring in IT engineering.💻</br>
-I enjoy running🏃‍♀️ snow board🏂 drawing🎨 bowling🎳</br>
+### About Me
+- student at `Sookmyung University` majoring in `IT engineering`.💻</br>
+- I am passionate about `Backend Developer` </br>
+- I enjoy `running🏃‍♀️` `snow board🏂` `drawing🎨` `bowling🎳`</br>
+
+
 </br>
 
 ### ✨ My value
 Be myself, Be beneficial</br>
-나다운 것을, 이로운 것을 만드는 것을 추구합니다.
+나 다운 것을, 이로운 것을 만드는 것을 추구합니다.
 
 ### 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
