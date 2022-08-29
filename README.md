@@ -6,7 +6,6 @@ I'm Gyuri Kim. Please call me "이롬" (Irom).
 - student at `Sookmyung University` majoring in `IT engineering`.💻</br>
 - I am passionate about `Backend Developer` </br>
 - I enjoy `running🏃‍♀️` `snow board🏂` `drawing🎨` `bowling🎳`</br>
-</br>
 
 ### ✨ My value </br>
 Be myself, Be beneficial</br>
@@ -71,7 +70,9 @@ Be myself, Be beneficial</br>
 </div>
 </br></br>
 
+<!--
 ![bnfkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnfkim&show_icons=true&theme=tokyonight)
+-->
 
 ### 🏅Baekjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgr2626)](https://solved.ac/kgr2626)
