@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Gyuri Kim. Please call me "이롬" (Irom).
+### Hi there 👋 
+I'm Gyuri Kim. Please call me "이롬" (Irom).
 </br>
 
 ### About Me
