@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Gyuri Kim. Please call me "이롬" (Irom).
+I'm Gyuri Kim. Please call me `이롬` (Erom).
 </br>
 
 ### About Me
