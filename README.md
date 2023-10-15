@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Gyuri Kim. Please call me `이롬` (Erom).
+I'm Gyuri Kim. Please call me 'Romy'
 </br>
 
 ### About Me
@@ -74,7 +74,7 @@ Be myself, Be beneficial</br>
 https://github.com/Wine-O-clocK
 </br>
 https://github.com/ConnectingChips
-
+</br>
 
 <!--
 ![bnfkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnfkim&show_icons=true&theme=tokyonight)
