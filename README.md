@@ -71,6 +71,8 @@ Be myself, Be beneficial</br>
 
 
 ### PROJECT
+https://github.com/Wine-O-clocK
+https://github.com/ConnectingChips
 
 
 <!--
