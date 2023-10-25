@@ -1,19 +1,20 @@
 ### Hi there 👋 
 I'm Gyuri Kim. Please call me 'Romy'
-
-</br>
+</br></br>
 
 ### About Me
 - student at `Sookmyung University` majoring in `IT engineering`.💻</br>
 - I am passionate about `Backend Developer` </br>
 - I enjoy `running🏃‍♀️` `snow board🏂` `drawing🎨` `bowling🎳`</br>
 
-### ✨ My value </br>
+</br></br>
+
+### ✨ My value
 Be myself, Be beneficial</br>
 나 다운 것을, 이로운 것을 만드는 것을 추구합니다.
 </br></br>
 
-### 📚 Tech Stack </br>
+### 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -27,14 +28,14 @@ Be myself, Be beneficial</br>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br></br>
 
-### 🌱 Currently learning </br>
+### 🌱 Currently learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </br></br>
 
-### 📫 About me </br>
+### 📫 About me
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kgr3819@gmail.com"/></a>
 <img src="https://img.shields.io/badge/Velog-40b68d?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@beneficial"/>
 </br></br>
@@ -71,7 +72,7 @@ Be myself, Be beneficial</br>
 </br></br>
 
 
-### PROJECT
+### 💻 PROJECT
 <table>
 <!-- 팀 -->
   <tr>
@@ -93,10 +94,7 @@ Be myself, Be beneficial</br>
     </td>
   </tr>
 </table>
-
-
-</br>
-</br>
+</br></br>
 
 <!--
 ![bnfkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnfkim&show_icons=true&theme=tokyonight)
