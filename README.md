@@ -26,11 +26,6 @@ Be myself, Be beneficial</br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </br></br>
 
-### 📫 About me
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kgr3819@gmail.com"/></a>
-<img src="https://img.shields.io/badge/Velog-40b68d?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@beneficial"/>
-</br></br>
-
 ### 💛Career
 <div style="text-align:left">
 <table>
