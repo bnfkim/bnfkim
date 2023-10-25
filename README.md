@@ -104,8 +104,9 @@ Be myself, Be beneficial</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgr2626)](https://solved.ac/kgr2626)
 </br>
 
-### 📊 Most used language
+<!--### 📊 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfkim&layout=Demo&theme=tokyonight)
+-->
 
 <!--
 **bnfkim/bnfkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
