@@ -14,7 +14,7 @@ Be myself, Be beneficial</br>
 </br></br>
 
 ### 📚 Tech Stack </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -28,14 +28,14 @@ Be myself, Be beneficial</br>
 <br></br>
 
 ### 🌱 Currently learning </br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </br></br>
 
 ### 📫 About me </br>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kgr3819@gmail.com"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kgr3819@gmail.com"/></a>
 <img src="https://img.shields.io/badge/Velog-40b68d?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@beneficial"/>
 </br></br>
 
