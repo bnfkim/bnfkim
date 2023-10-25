@@ -1,13 +1,4 @@
 ### Hi there 👋 
-I'm Gyuri Kim. Please call me 'Romy'
-</br></br>
-
-### About Me
-- student at `Sookmyung University` majoring in `IT engineering`.💻</br>
-- I am passionate about `Backend Developer` </br>
-- I enjoy `running🏃‍♀️` `snow board🏂` `drawing🎨` `bowling🎳`</br>
-
-</br></br>
 
 ### ✨ My value
 Be myself, Be beneficial</br>
