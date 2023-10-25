@@ -1,5 +1,6 @@
 ### Hi there 👋 
 I'm Gyuri Kim. Please call me 'Romy'
+
 </br>
 
 ### About Me
@@ -71,6 +72,31 @@ Be myself, Be beneficial</br>
 
 
 ### PROJECT
+<table>
+<!-- 팀 -->
+  <tr>
+    <td align="center" colspan="1"><strong>여기사진</strong></td>
+    <td align="center" colspan="1"><strong>Wine O'clocK</strong></td>
+    <td align="center" colspan="1"><strong>작심삼칩</strong></td>
+  </tr>
+
+<!-- 이미지 -->
+  <tr>
+    <td>
+      <a href="https://github.com/TEAM-whereisphoto" ><img src="![여기사진로고](https://github.com/bnfkim/bnfkim/assets/80308473/9d36f5e7-694d-40fe-8005-560605b3c5f0)
+" width="200px"/></a>
+    </td>
+    <td>
+      <a href="" ><img src="![와인어클락_로고](https://github.com/bnfkim/bnfkim/assets/80308473/edcdac5b-f9ea-4408-bb0f-5aebf0ec5900)" width="200px"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/ConnectingChips" ><img src="![작심삼칩로고](https://github.com/bnfkim/bnfkim/assets/80308473/907839fd-175c-4aae-8678-ce6b2c6eaf46)
+" width="200px"/></a>
+    </td>
+  </tr>
+</table>
+
+
 https://github.com/Wine-O-clocK
 </br>
 https://github.com/ConnectingChips
