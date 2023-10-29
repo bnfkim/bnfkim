@@ -81,7 +81,7 @@ Be myself, Be beneficial</br>
     </td>
     <td>
       <a href="https://github.com/ConnectingChips">
-        <img src="https://github.com/bnfkim/bnfkim/assets/80308473/907839fd-175c-4aae-8678-ce6b2c6eaf46" style = "width=200px"/>
+        <img src="https://github.com/bnfkim/bnfkim/assets/80308473/907839fd-175c-4aae-8678-ce6b2c6eaf46" width="200px"/>
       </a>
     </td>
   </tr>
