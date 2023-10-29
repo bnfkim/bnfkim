@@ -62,9 +62,19 @@ Be myself, Be beneficial</br>
 <table>
 <!-- 팀 -->
   <tr>
-    <td align="center" colspan="1"><strong>여기사진</strong></td>
-    <td align="center" colspan="1"><strong>Wine O'clocK</strong></td>
-    <td align="center" colspan="1"><strong>작심삼칩</strong></td>
+    <td align="center" colspan="1">
+      <a href="https://github.com/TEAM-whereisphoto">
+        <strong>여기사진</strong></td>
+      </a>
+    <td align="center" colspan="1">
+      <a href="https://github.com/Wine-O-clocK">
+        <strong>Wine O'clocK</strong>
+      </a>
+    </td>
+    <td align="center" colspan="1">
+      <a href="https://github.com/ConnectingChips">
+        <strong>작심삼칩</strong></td>
+      </a>
   </tr>
 
 <!-- 이미지 -->
