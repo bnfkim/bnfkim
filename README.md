@@ -70,13 +70,19 @@ Be myself, Be beneficial</br>
 <!-- 이미지 -->
   <tr>
     <td>
-      <a href="https://github.com/TEAM-whereisphoto" ><img src="https://github.com/bnfkim/bnfkim/assets/80308473/9d36f5e7-694d-40fe-8005-560605b3c5f0" width="200px"/></a>
+      <a href="https://github.com/TEAM-whereisphoto">
+        <img src="https://github.com/bnfkim/bnfkim/assets/80308473/9d36f5e7-694d-40fe-8005-560605b3c5f0" width="200px"/>
+      </a>
     </td>
     <td>
-      <a href="https://github.com/Wine-O-clocK" ><img src="https://github.com/bnfkim/bnfkim/assets/80308473/edcdac5b-f9ea-4408-bb0f-5aebf0ec5900" width="200px"/></a>
+      <a href="https://github.com/Wine-O-clocK">
+        <img src="https://github.com/bnfkim/bnfkim/assets/80308473/edcdac5b-f9ea-4408-bb0f-5aebf0ec5900" width="200px"/>
+      </a>
     </td>
     <td>
-      <a href="https://github.com/ConnectingChips" ><img src="https://github.com/bnfkim/bnfkim/assets/80308473/907839fd-175c-4aae-8678-ce6b2c6eaf46" width="200px"/></a>
+      <a href="https://github.com/ConnectingChips">
+        <img src="https://github.com/bnfkim/bnfkim/assets/80308473/907839fd-175c-4aae-8678-ce6b2c6eaf46" style = "width=200px"/>
+      </a>
     </td>
   </tr>
 </table>
