@@ -1,5 +1,5 @@
-# 김규리 | Gyuri Kim
-### Backend Developer
+## 김규리 | Gyuri Kim
+## Backend Developer
 ---
 
 ### ✨ My value
