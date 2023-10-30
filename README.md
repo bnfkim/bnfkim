@@ -1,6 +1,4 @@
 ## 김규리 | Gyuri Kim
-## Backend Developer
----
 
 ### ✨ My value
 Be myself, Be beneficial</br>
