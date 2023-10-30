@@ -1,8 +1,10 @@
-### Hi there 👋 
+# 김규리 | Gyuri Kim
+### Backend Developer
+---
 
 ### ✨ My value
 Be myself, Be beneficial</br>
-나 다운 것을, 이로운 것을 만드는 것을 추구합니다.
+나 다운 것을, 세상을 이롭게하는 서비스 개발을 추구합니다.
 </br></br>
 
 ### 📚 Tech Stack
@@ -26,7 +28,7 @@ Be myself, Be beneficial</br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </br></br>
 
-### 💛Career
+### 💛 Work Experience
 <div style="text-align:left">
 <table>
   <tr>
@@ -51,7 +53,7 @@ Be myself, Be beneficial</br>
     <td style="text-align:center">staff engineer</td>
     <td style="text-align:left">2021.03 ~ 2021.12</td>
     <td style="text-align:left">Samsung Service Project ISAMS/IPA Voc/Admin</td>
-    <td style="text-align:left">Megazone Cloud</td>
+    <td style="text-align:left">Megazone & My data</td>
   </tr>
 </table>
 </div>
@@ -102,9 +104,12 @@ Be myself, Be beneficial</br>
 ![bnfkim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnfkim&show_icons=true&theme=tokyonight)
 -->
 
+<!--
 ### 🏅Baekjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgr2626)](https://solved.ac/kgr2626)
 </br>
+-->
+
 
 <!--### 📊 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfkim&layout=Demo&theme=tokyonight)
