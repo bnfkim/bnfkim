@@ -1,8 +1,10 @@
 ## 김규리 | Gyuri Kim
 
+
 ### ✨ My value
 Be myself, Be beneficial</br>
 나 다운 것을, 세상을 이롭게하는 서비스 개발을 추구합니다.
+나의 작은 행동 하나가, 세상을 바꿀 힘이 되길
 </br></br>
 
 ### 📚 Tech Stack
